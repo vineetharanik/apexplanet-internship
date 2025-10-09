@@ -91,6 +91,7 @@ if(isset($error)){
     Email: <input type="email" name="email" required><br><br>
     Phone: <input type="text" name="phone" required><br><br>
     <button type="submit" name="submit">Add Student</button>
+    <a href="index.php" style="margin-left:20px; color:#6c63ff;">Back to List</a>
 </form>
 
 </body>
